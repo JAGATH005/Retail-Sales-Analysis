@@ -57,5 +57,18 @@ This project analyzes retail sales data using Python, Pandas, and Matplotlib to 
    `python src/top_products.py`
    `python src/business_insights.py`
 
+## Data Visualizations
+### 1. Monthly Sales Analysis
+![Monthly Sales](outputs/monthly_sales.png)
+
+### 2. Sales by Product Category
+![Category Sales](outputs/category_sales.png)
+
+### 3. Sales by Region
+![Region Sales](outputs/region_sales.png)
+
+### 4. Top-Selling Products
+![Top Products](outputs/top_products.png)
+
 ## Conclusion
 This project demonstrates beginner-level data cleaning, exploratory data analysis, aggregation, and visualization skills using Python.
