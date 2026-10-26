@@ -71,4 +71,4 @@ This project analyzes retail sales data using Python, Pandas, and Matplotlib to 
 ![Top Products](outputs/top_products.png)
 
 ## Conclusion
-This project demonstrates beginner-level data cleaning, exploratory data analysis, aggregation, and visualization skills using Python.
+This project demonstrates the use of Python, Pandas, Matplotlib, and MySQL to clean, analyze, and visualize retail sales data. The analysis identified key sales trends across product categories, regions, and months, helping highlight high-performing products and business areas.
