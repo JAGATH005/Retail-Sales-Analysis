@@ -4,11 +4,13 @@
 This project analyzes retail sales data using Python, Pandas, and Matplotlib to identify sales trends, top-performing product categories, regional performance, and high-revenue products.
 
 ## Tools and Technologies
-- Python
-- Pandas
-- Matplotlib
-- CSV Dataset
-- VS Code
+
+- **Python** – Data analysis and calculations
+- **Pandas** – Data cleaning and manipulation
+- **Matplotlib** – Data visualization and charts
+- **MySQL** – SQL queries and sales analysis
+- **CSV Dataset** – Retail sales data
+- **VS Code** – Development environment
 
 ## Dataset
 - Original records: 1,000
